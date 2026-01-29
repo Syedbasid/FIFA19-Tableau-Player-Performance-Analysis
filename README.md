@@ -13,8 +13,8 @@ Football clubs, scouts, and analysts require data-driven insights to:
 - Evaluate player performance across nationalities, ages, and positions
 - Understand how market value and wages relate to player quality
 - Identify skill specialization and physical attributes by position
-- Detect high-potential players for future investment
-- Analyze club-level squad quality and composition
+- Detect high potential players for future investment
+- Analyze club level squad quality and composition
 
 This project addresses these needs using structured data visualization.
 
@@ -47,7 +47,7 @@ The dataset includes:
 
 ### 1️⃣ Player Performance Analysis
 **Question:** How do overall ratings differ by nationality, age, and position?  
-**Visualization:** Bar Chart / Heatmap  
+**Visualization:** Bar Chart
 **Insight:**  
 Certain nationalities consistently produce higher-rated players, especially in attacking and midfield positions. Players in their prime age range show stronger overall ratings.
 
@@ -170,4 +170,3 @@ All key analyses are integrated into a single dashboard with global filters (Age
 ## 👤 Author
 **Name:** Syed Basid S
 
-## 📁 Repository Structure
